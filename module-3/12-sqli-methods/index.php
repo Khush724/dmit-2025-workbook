@@ -1,3 +1,9 @@
+<?php
+require_once dirname(__DIR__, 2) . '/data/connect.php';
+$conn = db_connect();
+
+?>
+
 <!doctype html>
 <html lang="en">
 
