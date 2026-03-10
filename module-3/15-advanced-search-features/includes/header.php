@@ -3,7 +3,6 @@
 require_once dirname(__DIR__, 3) . '/data/connect.php';
 $conn = db_connect();
 ?>
-
 <!doctype html>
 <html lang="en">
 
