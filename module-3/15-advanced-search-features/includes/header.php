@@ -22,7 +22,7 @@ $conn = db_connect();
 
                     <ul class="nav col-12 col-lg-auto ms-lg-auto mb-2 mb-md-0 justify-content-center">
                         <li><a href="filters.php" class="link-light px-3">Filters</a></li>
-                        <li><a href="search.php" class="link-light px-3">Search</a></li>
+                        <li><a href="adv-search.php" class="link-light px-3">Search</a></li>
                     </ul>
                 </section>
             </div>

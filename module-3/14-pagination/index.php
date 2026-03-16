@@ -111,6 +111,7 @@ if ($conn->error) {
                     <a class="page-link link-success" href="index.php?page=<?php echo $current_page - 1 ?>&number-of-results=<?= $per_page ?>">Previous</a>
                 </li>
             <?php endif; ?>
+            
             <!-- numbered pages -->
             <?php
                 $gap = FALSE;
